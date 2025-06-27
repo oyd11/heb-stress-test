@@ -1,0 +1,6 @@
+
+# run me as:
+# . ./dot_venv
+
+. ~/.venv/hebrew-text-data/bin/activate
+
