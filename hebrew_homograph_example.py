@@ -14,4 +14,5 @@ for word in sorted(stressed_set):
     print('-===-')
     print(f'{word=} {len(word_df)=}')
     print('------')
-    print(phrases.values)
+    for  phrase, ind in zip(phrases.values, word_df['ind']):
+        print(f'{ind} ::: {phrase}')
