@@ -6,5 +6,8 @@
 
 ## Code
 
-Just loading python boilerplate code for the above data
+Boilterplate python code loader, into Panda Dataframes
+
+Run/read the example script `./hebrew_homograph_example.py`
+
 
