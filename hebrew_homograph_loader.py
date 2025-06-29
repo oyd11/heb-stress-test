@@ -18,7 +18,7 @@ def load_data():
 
     words_df = pd.read_csv(words_filename, skiprows=skiprows)
 
-    phrases_df = pd.read_csv("hebrew_homographs_stress_minimal_pairs_phrases_llm1.csv")
+phrases_df = pd.read_csv("hebrew_homographs_stress_minimal_pairs_phrases_llm1.csv")
     return words_df, phrases_df
 
 

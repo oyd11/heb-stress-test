@@ -1,4 +1,5 @@
-# hebrew-text-data
+# heb-stress-test
+Hebrew language Stress tests - minimal pairs, homographs and homophones
 
 ## Data Contexts:
  1. Hebrew Homographs Stress Minimal collection
