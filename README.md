@@ -12,3 +12,7 @@ Boilterplate python code loader, into Panda Dataframes
 Run/read the example script `./hebrew_homograph_example.py`
 
 
+## Data License:
+
+CC BY-SA
+
